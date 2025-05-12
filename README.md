@@ -12,7 +12,7 @@ The Gantt chart was designed to reflect real-world project scenarios, helping to
 
 📊 Progress Tracking (with percentage completion)
 
-✅ Phases: Planning, Execution (5 tasks), Review
+✅ Phases: Planning, Execution, Review
 
 🛠️ BA/PM Aligned Tasks (e.g., UAT, BRD, Go-Live Support)
 
